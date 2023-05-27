@@ -1,1 +1,3 @@
 # SAE106
+
+Le but de ce projet était de nous faire découvrir des entreprises ainsi que de nouveaux termes et une méthodologie pour analyser et faire un diagnostic de l'entreprise à partir de leur rapport RSE. Pour mener à bien ce projet, nous avons organisé notre travail en équipe, fixé des objectifs et partagé les tâches. Une recherche documentaire approfondie sur une entreprise spécifique a été effectuée à l'aide d'outils de veille. Nous avons analysé les informations sur la responsabilité sociétale des entreprises dans le développement durable et rédigé une synthèse écrite. Une présentation visuelle attrayante a été créée avec des outils web, et nous avons ensuite présenté en équipe notre travail, mettant en avant nos résultats et conclusions.
